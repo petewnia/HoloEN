@@ -498,11 +498,11 @@
 	AAAAAAAAAAADlg==
 	</data>
 	<key>columnCount</key>
-	<integer>202</integer>
+	<integer>157</integer>
 	<key>name</key>
 	<string>HololiveEN</string>
 	<key>rowCount</key>
-	<integer>33</integer>
+	<integer>27</integer>
 	<key>type</key>
 	<string>Window Settings</string>
 </dict>
