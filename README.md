@@ -12,7 +12,7 @@ Terminal color schemes (kind of) based on the color palette of Hololive EN talen
 ### Alacritty
 ![Alacritty](https://i.imgur.com/HNustRO.png "Iterm2")
 
-### Terminal
+### Terminal (No idea, why it looks like this)
 ![Terminal](https://i.imgur.com/8WuyDf1.png "Terminal")
 
 ## Credits and Misc
