@@ -1,4 +1,4 @@
-= hololivEN
+= HoloEN
 Terminal color schemes (kind of) based on the color palette of Hololive EN talents.
 
 == Screen shots
