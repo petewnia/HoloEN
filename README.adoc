@@ -1,0 +1,14 @@
+= hololivEN
+Terminal color schemes (kind of) based on the color palette of Hololive EN talents.
+
+== Screen shots
+
+image::https://i.imgur.com/tBs8in3.png[palette]
+
+image::https://i.imgur.com/RPrP0n4.png[screenshot]
+
+== Expression of Gratitude
+The respective designer of each https://hololive.tv/member[talents].
+
+mbadolato/link:https://github.com/mbadolato/iTerm2-Color-Schemes[iTerm2-Color-Schemes] +
+for the screenshot shell script.
